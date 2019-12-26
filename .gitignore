@@ -24,3 +24,7 @@ tags
 ### Logs
 logs
 *.log
+
+### prod
+# env
+.env.prod
